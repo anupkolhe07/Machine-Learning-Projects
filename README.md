@@ -1,5 +1,3 @@
-
-Machine Learning Projects Repository
 Welcome to the Machine Learning Projects Repository curated by Anup. This repository serves as a comprehensive collection of diverse machine learning projects, showcasing various applications, methodologies, and implementations in Python.
 
 Purpose:
