@@ -15,4 +15,4 @@ Begin your journey into the world of machine learning by exploring the projects 
 
 Happy learning and happy coding!
 
-- Anup
+Anup
