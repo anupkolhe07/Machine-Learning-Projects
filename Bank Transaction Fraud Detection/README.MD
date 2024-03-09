@@ -6,11 +6,13 @@ This project focuses on developing a fraud detection model using historical tran
 ### Data Imbalance
 The dataset is highly imbalanced, with approximately 97.14% of transactions labeled as non-fraudulent and 2.86% labeled as fraudulent.
 
-### Top Performing Algorithm
-XGBoost Classifier emerged as the top-performing algorithm, providing high accuracy, precision, recall, and F1 score on both training and test sets.
 
 ### Bivariate Analysis of Object Columns and Fraud
 Visualizing the distribution of object columns and their relationship with the target variable "Fraud" using bar plots.
+
+### Top Performing Algorithm
+XGBoost Classifier emerged as the top-performing algorithm, providing high accuracy, precision, recall, and F1 score on both training and test sets.
+
 
 ### Business Insights
 - Temporal Patterns: Transaction month is crucial for detecting fraudulent activity.
