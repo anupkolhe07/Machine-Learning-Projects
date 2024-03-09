@@ -9,6 +9,9 @@ The dataset is highly imbalanced, with approximately 97.14% of transactions labe
 ### Top Performing Algorithm
 XGBoost Classifier emerged as the top-performing algorithm, providing high accuracy, precision, recall, and F1 score on both training and test sets.
 
+### Bivariate Analysis of Object Columns and Fraud
+Visualizing the distribution of object columns and their relationship with the target variable "Fraud" using bar plots.
+
 ### Business Insights
 - Temporal Patterns: Transaction month is crucial for detecting fraudulent activity.
 - Behavioral Characteristics: Features like 'IsOldDevice' and 'webSessWebBrowser' offer insights into fraudster behavior.
