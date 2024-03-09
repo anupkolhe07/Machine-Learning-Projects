@@ -1,4 +1,4 @@
-**Fraud Detection Model **
+# Fraud Detection Model
 
 ### Problem Statement
 This project focuses on developing a fraud detection model using historical transaction data. The goal is to predict whether a transaction is fraudulent or not, making it a binary classification problem.
